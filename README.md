@@ -44,3 +44,7 @@ Notes & next steps
 
 - This is a simple heuristic-based detector intended for demonstration and small-scale monitoring. It's not a replacement for production IDS/IPS.
 - Next improvements: configurable alert sinks (email/webhook), better state management for high-throughput capture (use counters rather than deques), and unit tests that feed synthetic/scapy-generated packets.
+
+## Disclaimer
+
+**Please Note:** If you download and use this software, I am not responsible for any effects or damages it may have on your computer or system. Use it at your own risk.
