@@ -1,0 +1,5 @@
+2025-11-11 13:18:56,727 [INFO] Reading pcap file path\to\sample.pcap
+2025-11-11 13:29:47,067 [INFO] Async live capture started
+2025-11-11 13:29:56,845 [INFO] Async live capture stopped
+2025-11-11 13:31:17,264 [INFO] Reading pcap file D:/blender download/try.pcapng
+2025-11-11 13:31:28,979 [INFO] Async live capture started
